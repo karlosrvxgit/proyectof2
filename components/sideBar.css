@@ -1,7 +1,6 @@
 #navBar {
     height: 100%;
     background-color: rgb(30, 33, 58);
-    /* background-color: chartreuse; */
     position: absolute;
     top: 0;
     bottom: 0;
@@ -43,21 +42,18 @@
   }
 
   ::placeholder {
-    /* color: #616475; */
     font-family: Raleway;
     font-size: 16px;
     font-weight: 500;
     line-height: 19px;
     letter-spacing: 0em;
     text-align: left;
-    /* color: white; */
+
 
   }
 
   #mainsearch2 > span {
     color: #616475;
-    /* border: 1px solid; */
-    /* color: rgba(245, 245, 245, 0.456); */
     height: 48px;
     display: flex;
     justify-content: center;
@@ -78,8 +74,6 @@
 
   #mainsearch3 > span {
     color: #616475;
-    /* border: 1px solid; */
-    /* color: rgba(245, 245, 245, 0.456); */
     height: 48px;
     display: flex;
     justify-content: center;
