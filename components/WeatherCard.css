@@ -1,0 +1,45 @@
+#containerC {
+    width: 120px;
+    height: 177px;
+    top: 148px;
+    left: 613px;
+    background: #1E213A;
+    padding: 10px;
+}
+
+#tomorrow {
+font-family: Raleway;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+color: #E7E7EB;
+}
+
+#tminmax {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 1rem;
+    color: #A09FB1;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    top: 45px;
+    position: relative;
+    z-index: 2;
+
+
+}
+
+#clear2img {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    top: 15px;
+    position: relative;
+    z-index: 2;
+}
