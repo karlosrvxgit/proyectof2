@@ -4,7 +4,8 @@
     top: 148px;
     left: 613px;
     background: #1E213A;
-    padding: 10px;
+    padding: 1px;
+    
 }
 
 #tomorrow {
@@ -14,7 +15,10 @@ font-weight: 500;
 line-height: 19px;
 letter-spacing: 0em;
 text-align: center;
-color: #E7E7EB;
+color: #A09FB1;
+margin-top: 15px;
+
+
 }
 
 #tminmax {
@@ -28,7 +32,7 @@ color: #E7E7EB;
     font-weight: 500;
     line-height: 19px;
     letter-spacing: 0em;
-    top: 45px;
+    top: 90px;
     position: relative;
     z-index: 2;
 }
@@ -40,4 +44,21 @@ color: #E7E7EB;
     top: 15px;
     position: relative;
     z-index: 2;
+}
+
+#letters {
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    color: #E7E7EB;
+    width: 220px;
+    height: 28px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+
+    
+
 }
