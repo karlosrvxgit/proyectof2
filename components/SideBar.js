@@ -61,9 +61,6 @@ export default function SideBar(props) {
                 ))}
               </ul>
             </section>
-            {/* <section id="img2">
-              <img src="./funval.png" alt="" />
-            </section> */}
           </div>
         </main>
       </div>

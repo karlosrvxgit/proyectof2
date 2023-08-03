@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import WeatherCard from '/components/WeatherCard';
+// import WeatherCard from '/components/WeatherCard';
 
 
 const IndexPage = () => {
